@@ -1,0 +1,24 @@
+﻿<Window x:Class="DXGrid_PrintGrid.Window1" Title="Window1" Height="300" Width="450"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <dxg:GridControl x:Name="grid" AutoPopulateColumns="True" ItemsSource="{Binding List}">
+            <dxg:GridControl.View>
+                <dxg:TableView x:Name="view" AutoWidth="True" />
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Click="PreviewGrid" Width="170">
+                Show Print Preview
+            </Button>
+            <Button Click="ExportGrid" Width="170">
+                Export to MS Excel
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
