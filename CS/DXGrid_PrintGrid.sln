@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid_PrintGrid", "DXGrid_PrintGrid.csproj", "{F68C2970-9141-41B2-95AE-AEF7F4375DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugNoThemeSync|Any CPU = DebugNoThemeSync|Any CPU
+		DebugTest_NewThemeManager|Any CPU = DebugTest_NewThemeManager|Any CPU
+		DebugTest|Any CPU = DebugTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.DebugNoThemeSync|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.DebugNoThemeSync|Any CPU.Build.0 = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.DebugTest_NewThemeManager|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.DebugTest_NewThemeManager|Any CPU.Build.0 = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.DebugTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.DebugTest|Any CPU.Build.0 = Debug|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68C2970-9141-41B2-95AE-AEF7F4375DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
