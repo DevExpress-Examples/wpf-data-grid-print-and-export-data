@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [IssueList.cs](./CS/IssueList.cs) (VB: [IssueList.vb](./VB/IssueList.vb))
+* [Window1.xaml](./CS/Window1.xaml) (VB: [Window1.xaml](./VB/Window1.xaml))
+* [Window1.xaml.cs](./CS/Window1.xaml.cs) (VB: [Window1.xaml](./VB/Window1.xaml))
+<!-- default file list end -->
 # How to Print and Export the Grid
 
 
