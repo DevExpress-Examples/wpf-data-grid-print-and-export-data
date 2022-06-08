@@ -3,18 +3,37 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1669)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+# WPF Data Grid - Print and Export the GridControl
 
-* [IssueList.cs](./CS/IssueList.cs) (VB: [IssueList.vb](./VB/IssueList.vb))
+This example shows how to preview, print, and export the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl)'s content.
+
+![image](https://user-images.githubusercontent.com/65009440/172605584-84040ee3-dc36-4496-9126-120f7f9287d9.png)
+
+<!-- default file list -->
+
+## Files to look at
+
 * [Window1.xaml](./CS/Window1.xaml) (VB: [Window1.xaml](./VB/Window1.xaml))
 * [Window1.xaml.cs](./CS/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/Window1.xaml.vb))
+
 <!-- default file list end -->
-# How to Print and Export the Grid
 
+## Documentation
 
-<p>This example shows how to preview and print/export the grid content. The grid is printed and exported using the built-in capabilities.</p>
+* [Printing and Exporting](https://docs.devexpress.com/WPF/117296/controls-and-libraries/data-grid/printing-and-exporting)
+* [ShowPrintPreview](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ShowPrintPreview(System.Windows.FrameworkElement))
+* [ExportToHtml](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToHtml(System.String))
+* [ExportToImage](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToImage(System.String))
+* [ExportToMht](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToMht(System.String))
+* [ExportToPdf](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToPdf(System.String))
+* [ExportToRtf](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToRtf(System.String))
+* [ExportToText](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToText(System.String))
+* [ExportToXps](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ExportToXps(System.String))
+* [ExportToCsv](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TableView.ExportToCsv(System.String))
+* [ExportToXls](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TableView.ExportToXls(System.String))
+* [ExportToXlsx](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TableView.ExportToXlsx(System.String))
 
-<br/>
+## More Examples
 
-
+* [WPF Data Grid - Use the PrintCellStyle Property to Customize Printed Cells](https://github.com/DevExpress-Examples/how-to-use-the-printcellstyle-property-to-customize-cells-printing-appearance-e3227)
+* [WPF Data Grid - Specify a Custom Print Template for Group Summaries](https://github.com/DevExpress-Examples/how-to-provide-a-custom-print-template-for-group-summaries-e2032)
