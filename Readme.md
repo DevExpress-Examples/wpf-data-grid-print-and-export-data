@@ -35,5 +35,6 @@ This example shows how to preview, print, and export the [GridControl](https://d
 
 ## More Examples
 
-* [WPF Data Grid - Use the PrintCellStyle Property to Customize Printed Cells](https://github.com/DevExpress-Examples/how-to-use-the-printcellstyle-property-to-customize-cells-printing-appearance-e3227)
-* [WPF Data Grid - Specify a Custom Print Template for Group Summaries](https://github.com/DevExpress-Examples/how-to-provide-a-custom-print-template-for-group-summaries-e2032)
+* [WPF Data Grid - Customize the Appearance of Printed/Exported Information](https://github.com/DevExpress-Examples/wpf-data-grid-customize-print-export-appearance)
+* [WPF Data Grid - Add Page Headers and Footers to Exported Data](https://github.com/DevExpress-Examples/wpf-data-grid-add-page-headers-and-footers-to-exported-data)
+* [WPF Data Grid - Export Data to a Native Excel Table](https://github.com/DevExpress-Examples/wpf-data-grid-export-data-to-native-excel-table)
