@@ -40,7 +40,7 @@ This example shows how to preview, print, and export the [GridControl](https://d
 * [WPF Data Grid - Add Page Headers and Footers to Exported Data](https://github.com/DevExpress-Examples/wpf-data-grid-add-page-headers-and-footers-to-exported-data)
 * [WPF Data Grid - Export Data to a Native Excel Table](https://github.com/DevExpress-Examples/wpf-data-grid-export-data-to-native-excel-table)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-print-and-export-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-print-and-export-data&~~~was_helpful=no)
 
